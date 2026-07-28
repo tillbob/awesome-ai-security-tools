@@ -66,6 +66,7 @@
 - [Fickling](https://github.com/trailofbits/fickling) 🟢 – Pickle analyzer for malicious model payloads
 - [GuardDog](https://github.com/DataDog/guarddog) 🟢 – Detects malicious packages in PyPI/npm/etc.
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) 🟢 – Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 ## Pentest & Red-Team Agents
 - [Strix](https://github.com/) 🟢 – Autonomous AI agent that runs code and validates PoCs
 - [Shannon](https://github.com/) 🟢 – Strong white-box autonomous pentester
